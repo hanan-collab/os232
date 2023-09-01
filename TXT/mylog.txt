@@ -1,1 +1,11 @@
-
+ZCZC WEEK0 30 L01 SCELE/Discord related
+ZCZC WEEK0 30 L02 CLASSROOM/ZOOM meetings related
+ZCZC WEEK0 60 L03 GitHub and git related, including commit, push, pull
+ZCZC WEEK0 30 L05 Quiz related including studying
+ZCZC WEEK0 60 L10 Assignment #00
+ZCZC WEEK0 30 L41 TXT/mylog.txt related.
+ZCZC WEEK0 900 L70 Studying for other courses.
+ZCZC WEEK0 300 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC WEEK0 20 L82 Reading Book (paper or online)
+ZCZC WEEK0 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC WEEK0 210 L87 Breakfast/Lunch/Dinner/Snake
