@@ -1,11 +1,22 @@
-ZCZC WEEK0 30 L01 SCELE/Discord related
-ZCZC WEEK0 30 L02 CLASSROOM/ZOOM meetings related
-ZCZC WEEK0 60 L03 GitHub and git related, including commit, push, pull
-ZCZC WEEK0 30 L05 Quiz related including studying
-ZCZC WEEK0 60 L10 Assignment #00
-ZCZC WEEK0 30 L41 TXT/mylog.txt related.
-ZCZC WEEK0 900 L70 Studying for other courses.
-ZCZC WEEK0 300 L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC WEEK0 20 L82 Reading Book (paper or online)
-ZCZC WEEK0 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-ZCZC WEEK0 210 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 30 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 30 L05 Quiz related including studying
+ZCZC W00 60 L10 Assignment #00
+ZCZC W00 30 L41 TXT/mylog.txt related.
+ZCZC W00 900 L70 Studying for other courses.
+ZCZC W00 300 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 20 L82 Reading Book (paper or online)
+ZCZC W00 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 210 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 240 L11 Assignment #01
+ZCZC W01 30 LO1 SCELE/Discord related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W01 60 L31 VirtualBox : Install GNU/Linux
+ZCZC W01 30 L41 TXT/mylog.txt related.
+ZCZC W01 900 L70 Studying for other courses
+ZCZC W01 300 L80 Watching: Movie, Youtube, TV, Netflix, etc.
+ZCZC W01 2160 L84 Relax, rest, nap, and sleep
+ZCZC WO1 210 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 180 L88 Workout/Sport/Excercise/ETC
