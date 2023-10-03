@@ -54,3 +54,17 @@ ZCZC W03 20 L82 Reading Book (paper or online)
 ZCZC W03 2160 L84 Relax, rest, nap, and sleep
 ZCZC W03 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W03 210 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 30 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 30 L05 Quiz related including studying
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 30 L22 Linux CLI including tar, etc.
+ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W04 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 900 L70 Studying for other courses.
+ZCZC W04 300 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 20 L82 Reading Book (paper or online)
+ZCZC W04 2160 L84 Relax, rest, nap, and sleep
+ZCZC W04 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W04 210 L87 Breakfast/Lunch/Dinner/Snake

@@ -10,5 +10,7 @@ Beginner Friendly - Complete Practice to Learn Basic CLI Commands.
 Explaining in a systematic way how to view an operating system from various perspectives
 3. [Protection in Operating System](https://youtu.be/O_WbprDZMDw?si=ALwsFhVm-mOqC6ns)<br>
 Short but help a lot in understanding protection
-4 [L-6.4: FCFS in Disk scheduling with Example | Operating System](https://youtu.be/yP89YlEGCqA?si=FpqVwdZ2FTY0lOwC)<br>
+4. [L-6.4: FCFS in Disk scheduling with Example | Operating System](https://youtu.be/yP89YlEGCqA?si=FpqVwdZ2FTY0lOwC)<br>
 Learn how simple concept First-Come-First-Served in Disk scheduling work
+5. [Basics of Dynamic Memory Allocation](https://youtu.be/udfbq4M2Kfc?si=KGedEwJOjo-4wEso)<br>
+Learn how dynamic memory allocation work and the difference between static and dynamic memory allocation
