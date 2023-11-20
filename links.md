@@ -20,3 +20,5 @@ This video is an overview of the paged and segmented memory management systems.
 The level of explanation about the process and threads is splendid. Amazing and understandable videos.
 8. [Process Synchronization | Chapter-6 | Operating System](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&si=BNjDKSv5NA_O8FwJ)<br>
 Comprehensive explanation how to avoid race condition and core of synchronization.
+9. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=kpjmIywgnKJAi1OD)<br>
+The end result is a fully working Linux From Scratch system all built from publicly available open source code using the excellent instructions in the Linux From Scratch 12.0 book.
