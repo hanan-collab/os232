@@ -22,3 +22,5 @@ The level of explanation about the process and threads is splendid. Amazing and 
 Comprehensive explanation how to avoid race condition and core of synchronization.
 9. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=kpjmIywgnKJAi1OD)<br>
 The end result is a fully working Linux From Scratch system all built from publicly available open source code using the excellent instructions in the Linux From Scratch 12.0 book.
+10. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/index.html)<br>
+Step-by-step, complete tutorial to build linux from scratch.
