@@ -24,3 +24,5 @@ Comprehensive explanation how to avoid race condition and core of synchronizatio
 The end result is a fully working Linux From Scratch system all built from publicly available open source code using the excellent instructions in the Linux From Scratch 12.0 book.
 10. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/index.html)<br>
 Step-by-step, complete tutorial to build linux from scratch.
+11. [Linux in 100 Seconds](https://youtu.be/rrB13utjYV4?si=9h3ye4Wnxr1j-qEY)<br>
+Entertaining videos that briefly explain about linux.
